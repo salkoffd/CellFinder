@@ -5,7 +5,7 @@ The image is first read and high-pass filtered to ignore low-frequency features 
 
 ![download](https://github.com/user-attachments/assets/5cbb5a7a-984c-4865-a9a7-041e396ce82d)
 
-Next, regions of interest (ROIs) are found of connected pixels using the OpenCV package. The distribution of ROI sizes are dispalyed.
+Next, regions of interest (ROIs) are found of connected pixels using the OpenCV package. The distribution of ROI sizes are dispalyed in a combined violin plot / swarm plot showing both pixel size and z-score of size.
 
 ![download](https://github.com/user-attachments/assets/42da7d86-7b1e-448d-872b-87110d94b09d)
 
